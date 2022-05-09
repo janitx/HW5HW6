@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<filtersProduct>
+    <filters>
+        <filter>
+            <id>1</id>
+            <product>ноутбук</product>
+            <brand>HP</brand>
+            <price>300000</price>
+        </filter>
+    </filters>
+</filtersProduct>
